@@ -1,12 +1,22 @@
 Layout
 
-- Title
+- Header
     - 3 parts divided:
         - Menu
         - Page title / icon middle center
         - social icons lower right
 
-- 
+- Portfolio cards
+    - 3 cards, hover rotation and shadow, enlarge
+
+- About Magnus
+    - 2 column design
+    - Text on the left, picture on the right (shadowed)
+
+- Footer
+    - Copyright signage
+
+
 
 
 Portfolio Examples
