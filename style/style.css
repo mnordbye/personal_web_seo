@@ -117,3 +117,9 @@ body {
 .portfolio__card {
   border: 1px solid black;
 }
+
+/* Footer */
+
+.footer__header {
+  text-align: center;
+}
