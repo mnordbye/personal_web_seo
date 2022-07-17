@@ -88,6 +88,12 @@ body {
     max-width: 1344px;
   }
   
+.section__header {
+  text-align: center;
+}
+
+
+/* Header */
 
 .header__wrapper {
   display: flex;
@@ -99,4 +105,15 @@ body {
 
 .header__menu {
   align-items: flex-start;
+}
+
+/* Portfolio */
+
+.portfolio__projects {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.portfolio__card {
+  border: 1px solid black;
 }

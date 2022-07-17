@@ -31,24 +31,24 @@
 
 <section class="portfolio">
     <div class="portfolio__title">
-        <h2>Featured Works</h2>
+        <h2 class="section__header">Featured Works</h2>
     </div>
     <div class="portfolio__projects">
         <div class="portfolio__card portfolio__card--left">
-            <a href=""><img src="images/xxxxxxxxxxxxxx"></a>
+            <a href=""><img src="images/doogle_small.png" alt="Doogle"></a>
         </div>
         <div class="portfolio__card portfolio__card--center">
-            <a href=""><img src="images/xxxxxxxxxxxxxx"></a>
+            <a href=""><img src="images/wetube_small.png" alt="WeTube"></a>
         </div>
         <div class="portfolio__card portfolio__card--right">
-            <a href=""><img src="images/xxxxxxxxxxxxxx"></a>
+            <a href=""><img src="images/doogle_small.png" alt="Doogle 2"></a>
         </div>
     </div>
 </section>
 
 <section class="aboutme">
     <div class="aboutme__content">
-        <h2>About Me</h2>
+        <h2 class="section__header">About Me</h2>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
             Autem cupiditate magni vitae numquam, quia rem explicabo natus a odio animi, quis optio? 
             Sapiente nihil, neque voluptatem voluptatibus dolorum vitae ducimus.</p>
@@ -62,7 +62,9 @@
     <h3><i class="fa-solid fa-copyright"></i> Magnus Nordbye 2022</h3>
 </footer>
 
-
+<?php
+echo "My first PHP script!";
+?>
 
 
 </body>
