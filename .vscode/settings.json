@@ -4,7 +4,6 @@
     "liveServer.settings.donotShowInfoMsg": true,
     "liveServer.settings.useWebExt": true,
     "liveServer.settings.proxy": {
-        "enable": true,
         "proxyUri": "http://localhost/personal_web_seo"
     },
     "liveServer.settings.CustomBrowser": "firefox",
