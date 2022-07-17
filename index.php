@@ -60,12 +60,12 @@
 
 <footer>
     <h3><i class="fa-solid fa-copyright"></i> Magnus Nordbye 2022</h3>
+    <h3><i class="fa-solid fa-copyright"></i> Magnus Nordbye 2022</h3>
 </footer>
 
 <?php
 echo "My first PHP script!";
 ?>
-
 
 </body>
 </html>

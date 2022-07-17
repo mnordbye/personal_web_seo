@@ -2,5 +2,12 @@
     "liveServer.settings.fullReload": true,
     "liveServer.settings.donotVerifyTags": true,
     "liveServer.settings.donotShowInfoMsg": true,
-    "liveServer.settings.useWebExt": true
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.proxy": {
+        "enable": true,
+        "proxyUri": "http://localhost/personal_web_seo"
+    },
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.wait": 500,
+    "liveServer.settings.port": 0
 }
